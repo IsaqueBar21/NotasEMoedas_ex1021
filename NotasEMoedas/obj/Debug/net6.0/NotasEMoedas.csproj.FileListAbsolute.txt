@@ -1,0 +1,14 @@
+C:\Users\3674532\Documents\CURSOS\C#\projetos\NotasEMoedas\NotasEMoedas\bin\Debug\net6.0\NotasEMoedas.exe
+C:\Users\3674532\Documents\CURSOS\C#\projetos\NotasEMoedas\NotasEMoedas\bin\Debug\net6.0\NotasEMoedas.deps.json
+C:\Users\3674532\Documents\CURSOS\C#\projetos\NotasEMoedas\NotasEMoedas\bin\Debug\net6.0\NotasEMoedas.runtimeconfig.json
+C:\Users\3674532\Documents\CURSOS\C#\projetos\NotasEMoedas\NotasEMoedas\bin\Debug\net6.0\NotasEMoedas.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\NotasEMoedas\NotasEMoedas\bin\Debug\net6.0\NotasEMoedas.pdb
+C:\Users\3674532\Documents\CURSOS\C#\projetos\NotasEMoedas\NotasEMoedas\obj\Debug\net6.0\NotasEMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3674532\Documents\CURSOS\C#\projetos\NotasEMoedas\NotasEMoedas\obj\Debug\net6.0\NotasEMoedas.AssemblyInfoInputs.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\NotasEMoedas\NotasEMoedas\obj\Debug\net6.0\NotasEMoedas.AssemblyInfo.cs
+C:\Users\3674532\Documents\CURSOS\C#\projetos\NotasEMoedas\NotasEMoedas\obj\Debug\net6.0\NotasEMoedas.csproj.CoreCompileInputs.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\NotasEMoedas\NotasEMoedas\obj\Debug\net6.0\NotasEMoedas.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\NotasEMoedas\NotasEMoedas\obj\Debug\net6.0\refint\NotasEMoedas.dll
+C:\Users\3674532\Documents\CURSOS\C#\projetos\NotasEMoedas\NotasEMoedas\obj\Debug\net6.0\NotasEMoedas.pdb
+C:\Users\3674532\Documents\CURSOS\C#\projetos\NotasEMoedas\NotasEMoedas\obj\Debug\net6.0\NotasEMoedas.genruntimeconfig.cache
+C:\Users\3674532\Documents\CURSOS\C#\projetos\NotasEMoedas\NotasEMoedas\obj\Debug\net6.0\ref\NotasEMoedas.dll
